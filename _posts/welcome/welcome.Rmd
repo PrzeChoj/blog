@@ -1,13 +1,10 @@
 ---
-title: "Welcome to Math \& Data"
+title: "Welcome to Math & Data"
 description: |
-  Welcome to our new blog, Math \& Data. We hope you enjoy 
-  reading what we have to say!
+  What is this place? Why is this place?
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Adam, Prze Choj
+    url: https://adam-prze-choj.netlify.app/posts/welcome/
 date: 08-19-2024
 output:
   distill::distill_article:
@@ -16,11 +13,28 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
+This is a story of brothers named Adam and Przemo. Adam is a Data Science engineer with a master's in Artificial Intelligence. At the same time, Przemo is a PhD student in theoretical Maths.
 
+Adam's interested in practical aspects of Math, while Przemo finds joy in theory.
 
+Przemo always wanted to make math more user-friendly, while Adam had a unique skill in seeing the similarities.
+
+Adam is a huge fan of Data, statistics, and practical probability. Przemo is a theoretic freak.
+
+The point of this blog is not to convince You of anything. Nor is it to show the skill. Its purpose is not to inspire nor educate.
+
+The point of this blog is to write sth that interests Adam and/or Przemo. To find better motivation to learn sth.
+
+This being said, Adam and Przemo will write as though this was supposed to inspire, educate, and convince the reader of the superiority of Math superiority.
+
+The posts will be about the Math behind the widely interpreted Data Science.
+
+Any constructive feedback is highly appreciated.
+
+Have an interesting day.
+
+Adam, Przemysław Chojecki
+
+PS. Do you lean more toward practical applications like Adam or find joy in theory like Przemo? Or perhaps you see value in both?
