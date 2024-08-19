@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Math & Data"
+title: "Welcome to Math \& Data"
 description: |
-  Welcome to our new blog, Math & Data. We hope you enjoy 
+  Welcome to our new blog, Math \& Data. We hope you enjoy 
   reading what we have to say!
 author:
   - name: Nora Jones 

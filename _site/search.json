@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-08-19T21:06:34+02:00"
+      "last_modified": "2024-08-19T21:33:11+02:00"
     },
     {
       "path": "index.html",
       "title": "Math & Data",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-08-19T21:06:34+02:00"
+      "last_modified": "2024-08-19T21:33:12+02:00"
     }
   ],
   "collections": ["posts/posts.json"]

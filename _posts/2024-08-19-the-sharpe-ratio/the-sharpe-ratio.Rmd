@@ -1,0 +1,26 @@
+---
+title: "Test post"
+description: |
+  Second post. This is the test
+author:
+  - name: Nora Jones 
+date: 08-19-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This *is* `my test` **post**. Hehe.
+
+```{r}
+plot(cars$speed, cars$dist)
+```
+
+
+
+
+

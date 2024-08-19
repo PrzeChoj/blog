@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2024-08-19T21:03:57+02:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-08-19-the-sharpe-ratio/",
+    "title": "Test post",
+    "description": "Second post. This is the test",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": {}
+      }
+    ],
+    "date": "2024-08-19",
+    "categories": [],
+    "contents": "\nThis is my test post. Hehe.\n\n\n\n\n\n\n",
+    "preview": "posts/2024-08-19-the-sharpe-ratio/the-sharpe-ratio_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2024-08-19T21:45:07+02:00",
+    "input_file": "the-sharpe-ratio.knit.md"
   }
 ]
